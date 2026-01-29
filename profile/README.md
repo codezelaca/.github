@@ -133,8 +133,8 @@ Depending on the repo, you may find
 Website  
 https://cca.it.com
 
-Student portal  
-https://portal.cca.it.com
+Student LMS  
+https://lms.cca.it.com
 
 Email  
 ca@codezela.com
