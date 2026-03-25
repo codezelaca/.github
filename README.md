@@ -10,7 +10,7 @@ profile/README.md
 ## What this repository is for
 
 1. Store and maintain the public organisation profile content
-2. Keep shared organisation level community files in one place
+2. Keep shared organisation-level community files in one place
 3. Provide consistent contribution rules across CCA repositories
 4. Make it easy for maintainers to update the profile without touching product or curriculum repos
 
@@ -43,7 +43,7 @@ If some of these files are not present yet, they can be added later as the organ
 
 ## Content standards for the profile README
 
-1. Keep it career focused and outcomes driven
+1. Keep it career-focused and outcomes-driven
 2. Prefer clarity over buzzwords
 3. Mention real tracks, real standards, real tools
 4. Keep links current and working
@@ -56,6 +56,9 @@ https://cca.it.com
 
 Student LMS  
 https://lms.cca.it.com
+
+Student Registration Portal
+https://portal.cca.it.com
 
 Email  
 ca@codezela.com
