@@ -41,16 +41,13 @@ CCA is organised into five specialist schools. Each school is built around high 
 
 1. Software Engineer
 2. Mobile App Developer
-3. Front End Developer
-4. Back End Developer
-5. Full Stack Developer
+3. Full Stack Developer
 
 ### School of AI and Data Science
 
 1. Data Analyst
 2. AI and ML Engineer
-3. Data Scientist
-4. Data Engineer
+3. Data Engineer
 
 ### School of Systems Engineering
 
